@@ -3,7 +3,7 @@
 > This generator randomly selects a joke from [canhazdadjoke](https://icanhazdadjoke.com).  
 > Just used HTML, CSS & JavaScript.  
 
-**You can run it live [here]()**  
+**You can run it live [here](https://therandomjokes.netlify.app/)**  
 
 
 - This code is purely taken from [codewithrandom](https://www.codewithrandom.com/2022/06/24/random-joke-generator-javascript/) which explains the working of this amazing mini project.  
